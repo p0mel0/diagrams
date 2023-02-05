@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T02:33:23.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="t3UG4FrpJxmpDkoiJeYV" version="20.8.16" type="github"><diagram name="第 1 页" id="AlObjJZVG1lFuw2CV-eZ">ddHNEoIgEADgp+GuYFpns7p08tCZkU2YQddBGq2nTwfMGOvE8u3C8kNY3oxnwzt5RQGa0EiMhB0JpXHCkmmY5ekk26UOaqOEL1qhVC/wGHl9KAF9UGgRtVVdiBW2LVQ2MG4MDmHZHXXYteM1bKCsuN7qTQkrne5ptvoFVC2XznF6cJmGL8X+Jr3kAocvYgVhuUG0LmrGHPT8eMu7uHWnP9nPwQy09seCKVj3nibBD7HiDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-05T02:52:50.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0QOaujx8mP-EFpNaf1Xz" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="AlObjJZVG1lFuw2CV-eZ">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MvhzeD1KUlz7yDPSART6-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-2" target="MvhzeD1KUlz7yDPSART6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="448" />
+              <mxPoint x="285" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-4">
+          <mxGeometry x="-0.1149" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-2" target="MvhzeD1KUlz7yDPSART6-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="450" />
+              <mxPoint x="515" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-7">
+          <mxGeometry x="-0.2704" y="-3" relative="1" as="geometry">
+            <mxPoint x="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-2" value="是否为tomcat?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="295" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-3" target="MvhzeD1KUlz7yDPSART6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-13">
+          <mxGeometry x="-0.3353" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-3" target="MvhzeD1KUlz7yDPSART6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-3" value="tomcat版本是否&amp;gt;=tomcat8" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="495" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-5" target="MvhzeD1KUlz7yDPSART6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-16">
+          <mxGeometry x="-0.3789" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-5" target="MvhzeD1KUlz7yDPSART6-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-19">
+          <mxGeometry x="0.1385" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-5" value="是否包含反序列化&lt;br&gt;gadget依赖库?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="495" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-9" target="MvhzeD1KUlz7yDPSART6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-9" value="JNDI注入" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="780" as="sourcePoint" />
+            <mxPoint x="284" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="514" y="810" />
+              <mxPoint x="284" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-21">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-11" target="MvhzeD1KUlz7yDPSART6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvhzeD1KUlz7yDPSART6-26">
+          <mxGeometry x="0.2516" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-11" value="JDK是否为&lt;br&gt;已打补丁版本" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="690" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-12" value="本地BeanFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-15" value="反序列化gadget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvhzeD1KUlz7yDPSART6-18" target="MvhzeD1KUlz7yDPSART6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-18" value="系统变量覆盖trustURLCodebase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvhzeD1KUlz7yDPSART6-25" value="远程Factory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
